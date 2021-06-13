@@ -1,6 +1,5 @@
 package crud.web.dao;
 
-
 import crud.web.entity.User;
 
 import java.util.List;
