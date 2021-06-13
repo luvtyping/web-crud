@@ -11,8 +11,7 @@ import java.util.List;
 public class UserDaoImpl implements UserDao {
     private static final String URL = "jdbc:mysql://localhost/users";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "RI43Jkf038fve";
-//    private static final String PASSWORD = "";
+    private static final String PASSWORD = "";
 
     static {
         try {
